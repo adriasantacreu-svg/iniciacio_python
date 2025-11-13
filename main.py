@@ -45,9 +45,9 @@ print(f"L'operació té com a resultat: {operacio} i és de tipus: {type(operaci
 
 operacio_complexa = enter_1**5 + float_1/5 - 3*(enter_1 % 4)
 print(operacio_complexa)
-
+HOLA_MON = 0
 print(1%5, 2%5, 3%5, 4%5, 5%5, 6%5)
-
+print(IVA)
 enter_2 = input("Introdueix un nombre enter: ")
 
 print(enter_2)
